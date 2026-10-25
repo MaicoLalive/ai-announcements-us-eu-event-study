@@ -38,7 +38,7 @@ Standard errors are clustered by firm and calendar date.
 
 ## Results
 
-After accounting for market and risk factors, AI announcements have no detectable effect on stock prices over a three-day window. Over wider windows of seven to eleven trading days, US announcements show a negative drift in cumulative abnormal returns of around 0.4 per cent. The drift disappears when each firm is weighted equally. European announcements show higher average cumulative abnormal returns than US announcements in every event window, but the difference is not statistically significant.
+After accounting for market and risk factors, AI announcements have no detectable effect on stock prices over a three-day window. Over wider windows of seven to eleven trading days, US announcements show a negative drift in cumulative abnormal returns of 0.4 to 0.5 per cent. The drift disappears when each firm is weighted equally. European announcements show higher average cumulative abnormal returns than US announcements in every event window, but the difference is not statistically significant.
 
 | | N | $[-1,+1]$ | $[0,+3]$ | $[-3,+3]$ | $[-5,+5]$ |
 |---|---|---|---|---|---|
